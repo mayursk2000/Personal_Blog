@@ -96,8 +96,7 @@
     }; // end ssMobileMenu
 
 
-   /* Search
-    * ------------------------------------------------------ */
+   /* Search*/
     const ssSearch = function() {
 
         const searchWrap = document.querySelector('.s-header__search');
@@ -209,7 +208,7 @@
 
 
    /* Animate on Scroll
-    * ------------------------------------------------------ */
+    * -------- */
     const ssAOS = function() {
         
         AOS.init( {
@@ -225,7 +224,7 @@
 
 
    /* Alert Boxes
-    * ------------------------------------------------------ */
+    * ------------ */
     const ssAlertBoxes = function() {
 
         const boxes = document.querySelectorAll('.alert-box');
@@ -249,7 +248,7 @@
 
 
    /* Smooth Scrolling
-    * ------------------------------------------------------ */
+    *--------------- */
     const ssSmoothScroll = function() {
         
         $('.smoothscroll').on('click', function (e) {
@@ -270,7 +269,7 @@
 
 
    /* Back to Top
-    * ------------------------------------------------------ */
+    * ----------- */
     const ssBackToTop = function() {
 
         const pxShow = 900;
