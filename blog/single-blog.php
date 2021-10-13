@@ -53,22 +53,18 @@ if (isset($_REQUEST['blog'])) {
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <!-- mobile specific metas
-    ================================================== -->
+    <!-- mobile specific metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- CSS
-    ================================================== -->
+    <!-- CSS-->
     <link rel="stylesheet" href="css/vendor.css">
     <link rel="stylesheet" href="css/styles.css">
 
-    <!-- script
-    ================================================== -->
+    <!-- script -->
     <script src="js/modernizr.js"></script>
     <script defer src="js/fontawesome/all.min.js"></script>
 
-    <!-- favicons
-    ================================================== -->
+    <!-- favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
@@ -79,16 +75,14 @@ if (isset($_REQUEST['blog'])) {
 <body id="top">
 
 
-    <!-- preloader
-    ================================================== -->
+    <!-- preloader -->
     <div id="preloader"> 
     	<div id="loader"></div>
     </div>
 
     <?php include "header-opaque.php"; ?>
 
-    <!-- content
-    ================================================== -->
+    <!-- content -->
     <section class="s-content">
 
         <div class="row">
@@ -209,8 +203,7 @@ if (isset($_REQUEST['blog'])) {
         
         ?>
 
-        <!-- comments
-        ================================================== -->
+        <!-- comments -->
         <div class="comments-wrap">
 
             <div id="comments" class="row">
