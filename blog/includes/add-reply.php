@@ -1,5 +1,4 @@
 <?php
-
 require_once("../admin/includes/dbh.php");
 
 $blogPostId = isset($_POST['replyBlogPostId']) ? $_POST['replyBlogPostId'] : "";
