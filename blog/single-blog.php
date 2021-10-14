@@ -47,7 +47,7 @@ if (isset($_REQUEST['blog'])) {
 <head>
 
     <!--- basic page needs
-    ================================================== -->
+    ================================================= -->
     <meta charset="utf-8">
     <title>Parth's Blog | <?php echo $blogMetaTitle; ?></title>
     <meta name="description" content="">
