@@ -15,7 +15,7 @@ if (isset($_REQUEST['query'])) {
 <head>
 
     <!--- basic page needs
-    ================================================== -->
+    ================================================= -->
     <meta charset="utf-8">
     <title>Parth's Blog | Search</title>
     <meta name="description" content="">
