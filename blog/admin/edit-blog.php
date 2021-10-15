@@ -3,6 +3,7 @@
 require "includes/dbh.php";
 session_start();
 
+
 if (isset($_REQUEST['blogid'])) {
 
     $blogId = $_REQUEST['blogid'];
