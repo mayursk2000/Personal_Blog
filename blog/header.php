@@ -4,7 +4,6 @@ $sqlCategories = "SELECT * FROM blog_category";
 $queryCategories = mysqli_query($conn, $sqlCategories);
 
 ?>
-
 <!-- header
 ================================================== -->
 <header class="s-header">
