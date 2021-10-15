@@ -9,7 +9,6 @@ if (isset($_REQUEST['query'])) {
     $queryGetSearchResults = mysqli_query($conn, $sqlGetSearchResults);
 
 ?>
-
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 <head>
