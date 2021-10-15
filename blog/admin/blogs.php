@@ -1,5 +1,4 @@
 <?php 
-
 require "includes/dbh.php";
 include "includes/unset-sessions.php";
 
