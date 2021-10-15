@@ -7,7 +7,7 @@ require "admin/includes/dbh.php";
 <head>
 
     <!--- basic page needs
-    ================================================== -->
+    ================================================= -->
     <meta charset="utf-8">
     <title>Contact - Calvin</title>
     <meta name="description" content="">
