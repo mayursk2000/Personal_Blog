@@ -40,6 +40,7 @@ if (isset($_REQUEST['blog'])) {
 
 }
 
+
 ?>
 
 <!DOCTYPE html>
