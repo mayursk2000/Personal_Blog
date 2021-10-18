@@ -1,6 +1,7 @@
 <?php 
 require "admin/includes/dbh.php"; 
 
+
 if (isset($_REQUEST['query'])) {
 
     $searchQuery = $_REQUEST['query'];
