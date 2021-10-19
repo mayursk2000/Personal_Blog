@@ -1,6 +1,7 @@
 <?php
 require_once("../admin/includes/dbh.php");
 
+
 $blogPostId = isset($_POST['blogPostId']) ? $_POST['blogPostId'] : "";
 $commentSenderName = isset($_POST['cName']) ? $_POST['cName'] : "";
 $commentEmail = isset($_POST['cEmail']) ? $_POST['cEmail'] : "";
